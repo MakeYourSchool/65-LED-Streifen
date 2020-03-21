@@ -1,4 +1,18 @@
-# Adafruit NeoPixel Library [![Build Status](https://travis-ci.com/adafruit/Adafruit_NeoPixel.svg?branch=master)](https://travis-ci.com/adafruit/Adafruit_NeoPixel)
+LED-Streifen
+----
+*(Adafruit NeoPixel Digital RGB LED Strip)*
+
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/08/65_led-streifen-1024x1024.jpg width=400px>
+
+Der LED-Streifen kann Lichteffekte und -animationen erzeugen oder kommt auch einfach zur Beleuchtung zum Einsatz. Er lässt sich dabei beliebig zuschneiden und wieder zusammenlöten. Weiterhin kann jede einzelne LED in Farbe und Helligkeit individuell gesteuert werden. Dadurch ist es möglich, komplexe Lichteffekte zu realisieren.
+
+Der LED-Streifen kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Da der Streifen über ein PWM-Signal gesteuert wird, wird nur ein digitaler Pin am Mikrocontroller benötigt.
+
+Ab einer Länge von fünf LEDs wird empfohlen, den LED-Streifen an eine externe Stromquelle anzuschließen. Werden längere LED-Streifen in Betracht gezogen so sollte eine Stromeinspeisung mindestens jeden Meter erfolgen, um alle LEDs gleichmäßig mit Strom zu versorgen.
+
+Im Folgenden findet Ihr einen Auszug aus der original NeoPixel-Bibliothek von Adafruit (bisher nur in englischer Sprache):
+
+----
 
 Arduino library for controlling single-wire-based LED pixels and strip such as the [Adafruit 60 LED/meter Digital LED strip][strip], the [Adafruit FLORA RGB Smart Pixel][flora], the [Adafruit Breadboard-friendly RGB Smart Pixel][pixel], the [Adafruit NeoPixel Stick][stick], and the [Adafruit NeoPixel Shield][shield].
 
