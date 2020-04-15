@@ -178,5 +178,5 @@ Mit diesen **Bibliotheken und Beispiel-Codes** kann der euch vorliegende Sensor/
 
 **Weitere Informationen:**
 
-[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/led-streifen/)
+[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/led-streifen/)
 
